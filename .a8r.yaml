@@ -7,3 +7,7 @@ k8s_config:
   cluster_info:
     cluster_id: 505d1df6-dd9d-5c42-a331-11c74a6f1bb5
     cluster_name: AES Smoke Tests - Yaml
+- manifest_path: /manifest
+  cluster_info:
+    cluster_id: e0083f35-7d65-5c34-85c2-3ad29d2765ea
+    cluster_name: AES Smoke Tests - Helm
