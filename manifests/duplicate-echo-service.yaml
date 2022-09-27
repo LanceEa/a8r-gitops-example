@@ -6,7 +6,7 @@ metadata:
   name: duplicate-echo-server
   namespace: default
 spec:
-  hostname: ''
+  hostname: 'dazzling-thompson-5782.edgestack.me'
   prefix: /backend/
   service: echo-server.duplicate
 
